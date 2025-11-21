@@ -225,6 +225,5 @@ void main(){
 
 ## Referencias
 
-- [Documentación Threejs](https://threejs.org/docs)
 - [The Book of Shaders](https://thebookofshaders.com/glossary)
 - [Guión de la práctica de Shaders](https://github.com/otsedom/otsedom.github.io/blob/main/IG/S9/README.md#shaders)
